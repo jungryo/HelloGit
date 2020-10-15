@@ -1,1 +1,1 @@
-this is test!
+print("Hello Git!")
